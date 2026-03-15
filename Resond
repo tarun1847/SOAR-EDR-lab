@@ -1,0 +1,11 @@
+
+  - action: report
+    metadata:
+      author:"ANYNAME"
+      description: Detects LaZagne
+      falsepositives:
+      - Unlikely
+      Level: medium
+      tags:
+      - attack.credential_access
+      name: "ANYNAME"
