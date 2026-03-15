@@ -17,7 +17,16 @@ https://github.com/tarun1847/SOAR-EDR-lab/blob/main/Respond
 
 ### Now all the detections can be seen in the detections option in the dashboard
 
+### Get started with slack by creating a workspace.
 
+### Create an account on Tinnes and a story (which will be our playbook).
+Add webhook to the story
+
+### In our LimaCharlie dashboard, we have to connect LimaCharlie with Tinnes.
+
+
+
+### And now we can see the Alert in our Webhook.
 
 
 
