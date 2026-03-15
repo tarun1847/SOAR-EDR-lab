@@ -1,2 +1,6 @@
 # SOAR-EDR-lab
 <img width="781" height="797" alt="Screenshot 2026-03-14 001916" src="https://github.com/user-attachments/assets/bdb8c924-a10e-4869-a0b1-25a1e0f749bd" />
+
+##Download
+###Either boot up a Windows VM using Vmware/VirtualBox or use a cloud service
+###LimaCharlie- Log in to the site and create a an organization. From here copy the sensor link and use it to download the sensor .exe file and copy the sensor key to run it.
