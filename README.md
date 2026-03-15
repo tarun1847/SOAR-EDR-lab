@@ -7,3 +7,4 @@
 ### Install LaZagne - https://github.com/AlessandroZ/LaZagne
 
 Now in the LimaCharlie Dashboard, Create New Rule.
+
