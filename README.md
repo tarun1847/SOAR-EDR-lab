@@ -11,20 +11,10 @@
 
 ### For Detect:
 https://github.com/tarun1847/SOAR-EDR-lab/blob/main/Detect
--->
+
 ### For Respond:
-<!--
-  - action: report
-    metadata:
-      author:"ANYNAME"
-      description: Detects LaZagne
-      falsepositives:
-      - Unlikely
-      Level: medium
-      tags:
-      - attack.credential_access
-      name: "ANYNAME"
--->
+https://github.com/tarun1847/SOAR-EDR-lab/blob/main/Respond
+
 ### Now all the detections can be seen in the detections option in the dashboard
 
 
