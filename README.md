@@ -5,3 +5,5 @@
 ### Either boot up a Windows VM using Vmware/VirtualBox or use a cloud service
 ### LimaCharlie- Log in to the site and create a an organization. From here copy the sensor link and use it to download the sensor .exe file and copy the sensor key to run it.
 ### Install LaZagne - https://github.com/AlessandroZ/LaZagne
+
+Now in the LimaCharlie Dashboard, Create New Rule.
