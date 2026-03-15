@@ -10,6 +10,7 @@
 
 
 ### For Detect:
+<!--
   events:
     - NEW_PROCESS
     - EXISTING_PROCESS
@@ -34,8 +35,9 @@
           op: is
           path: event/HASH
           value: "3cc5ee93a9ba1fc57389705283b760c8bd61f35e9398bbfa3210e2becf6d4b05"
-
+-->
 ### For Respond:
+<!--
   - action: report
     metadata:
       author:"ANYNAME"
@@ -46,8 +48,9 @@
       tags:
       - attack.credential_access
       name: "ANYNAME"
-
+-->
 ### Now all the detections can be seen in the detections option in the dashboard
+
 
 
 
