@@ -23,10 +23,12 @@ https://github.com/tarun1847/SOAR-EDR-lab/blob/main/Respond
 Add webhook to the story
 
 ### In our LimaCharlie dashboard, we have to connect LimaCharlie with Tinnes.
-
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20001954.png" />
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20002036.png" />
 
 
 ### And now we can see the Alert in our Webhook.
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20002258.png" />
 
 
 
