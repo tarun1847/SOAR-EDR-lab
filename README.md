@@ -30,7 +30,10 @@ Add webhook to the story
 ### And now we can see the Alert in our Webhook.
 <img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20002258.png" />
 
-
+### Connect Tines with Slack to atomate alerts
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20013410.png" />
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20013738.png" />
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20014140.png" />
 
 
 
