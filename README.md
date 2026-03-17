@@ -7,7 +7,7 @@
 ### Install LaZagne - https://github.com/AlessandroZ/LaZagne
 
 ### Now in the LimaCharlie Dashboard, Create New Rule.
-
+<img src="https://github.com/tarun1847/SOAR-EDR-lab/blob/main/img/Screenshot%20%20183913.png"/>
 
 ### For Detect:
 https://github.com/tarun1847/SOAR-EDR-lab/blob/main/Detect
